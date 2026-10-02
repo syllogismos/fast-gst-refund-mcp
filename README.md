@@ -5,12 +5,12 @@ Five free, read-only MCP tools for Indian service-export GST refund preparation.
 Connect to **https://fastgstrefund.com/mcp** using Streamable HTTP. No account,
 API key or payment is required for the current tools.
 
-| Tool | What it does |
-| --- | --- |
-| `get_refund_checklist` | Builds a preparation checklist. |
-| `search_refund_guides` | Finds relevant public preparation guides. |
-| `read_refund_guide` | Retrieves a public guide with its source links. |
-| `explain_upload_error` | Explains common Statement 3 and Annexure B upload issues. |
+| Tool                       | What it does                                               |
+| -------------------------- | ---------------------------------------------------------- |
+| `get_refund_checklist`     | Builds a preparation checklist.                            |
+| `search_refund_guides`     | Finds relevant public preparation guides.                  |
+| `read_refund_guide`        | Retrieves a public guide with its source links.            |
+| `explain_upload_error`     | Explains common Statement 3 and Annexure B upload issues.  |
 | `check_receipt_allocation` | Checks anonymous invoice-to-receipt allocation arithmetic. |
 
 [Connection instructions and scope](https://fastgstrefund.com/for-agents/) ·
