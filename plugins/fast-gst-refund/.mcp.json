@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fast-gst-refund": {
+      "type": "http",
+      "url": "https://fastgstrefund.com/mcp"
+    }
+  }
+}

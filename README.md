@@ -29,9 +29,10 @@ Official MCP Registry identity: `com.fastgstrefund/fast-gst-refund`.
 The published initial version is `1.0.0`. The remote endpoint remains the connection
 address; clients discover available tools through MCP `tools/list`.
 
-This repository contains public connection documentation and registry metadata for
-the hosted service. The server implementation is proprietary and is not distributed
-here. No open-source license is granted for the server implementation.
+This repository contains public connection documentation, registry metadata and a
+small [Grok Build / OpenClaw connector bundle](plugins/fast-gst-refund/) for the hosted service. The server implementation is proprietary and is not distributed
+here. No open-source license is granted for the server implementation. The connector
+bundle has its own limited distribution licence in its LICENSE file.
 
 New capabilities are documented after release. Check this repository's changelog and
 the connection guide when a release changes tools, authentication or pricing.

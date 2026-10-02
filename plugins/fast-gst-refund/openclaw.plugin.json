@@ -1,0 +1,12 @@
+{
+  "id": "fast-gst-refund",
+  "name": "Fast GST Refund",
+  "version": "1.0.0",
+  "description": "Indian service-export GST refund checklists, cited guides, upload-error explanations and anonymous receipt-allocation checks.",
+  "skills": ["./skills"],
+  "configSchema": {
+    "type": "object",
+    "properties": {},
+    "additionalProperties": false
+  }
+}

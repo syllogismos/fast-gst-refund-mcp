@@ -1,0 +1,22 @@
+{
+  "name": "@syllogismos/fast-gst-refund",
+  "version": "1.0.0",
+  "description": "Indian service-export GST refund checklists, cited guides, upload-error explanations and anonymous receipt-allocation checks.",
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://fastgstrefund.com/for-agents/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syllogismos/fast-gst-refund-mcp.git",
+    "directory": "plugins/fast-gst-refund"
+  },
+  "files": [
+    ".grok-plugin/plugin.json",
+    ".claude-plugin/plugin.json",
+    ".mcp.json",
+    "openclaw.plugin.json",
+    "skills/gst-refund-preparation/SKILL.md",
+    "assets/icon.png",
+    "README.md",
+    "LICENSE"
+  ]
+}

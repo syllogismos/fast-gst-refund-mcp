@@ -1,0 +1,20 @@
+Fast GST Refund connector distribution licence
+
+Copyright (c) 2026 Xeloni Zarakas Private Limited. All rights reserved.
+
+Permission is granted to download, install and use this connector package to
+access Fast GST Refund, and to copy and redistribute the unmodified package
+through plugin catalogs, package registries and client installations, provided
+this licence and the package's attribution and notices are retained. Users may
+adapt connection settings locally to work with their client.
+
+This permission applies only to the connector manifests, connection settings,
+usage skill, documentation and artwork in this package. It does not grant any
+rights to the hosted server implementation, private records, or other website
+content. Brand assets may be used to identify this connector, without implying
+endorsement of an unrelated product. All other rights are reserved.
+
+The hosted service is subject to https://fastgstrefund.com/terms/ and its
+privacy information is at https://fastgstrefund.com/privacy/.
+
+THE CONNECTOR PACKAGE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
