@@ -1,7 +1,7 @@
 {
   "name": "@syllogismos/fast-gst-refund",
-  "version": "1.0.0",
-  "description": "Indian service-export GST refund checklists, cited guides, upload-error explanations and anonymous receipt-allocation checks.",
+  "version": "1.3.1",
+  "description": "Prepare Indian GST refund records, validate entries and generate Statement 3 and Annexure B JSON.",
   "license": "SEE LICENSE IN LICENSE",
   "homepage": "https://fastgstrefund.com/for-agents/",
   "repository": {
